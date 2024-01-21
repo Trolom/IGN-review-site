@@ -33,4 +33,4 @@ Backend development for user authentication and data handling
 
 ## Conclusion:
 
-This project represents a comprehensive effort to amalgamate technical skills in using a Python web scraper, database management, and frontend design to create an efficient and user-centric game review aggregator.
+This project represents a comprehensive effort to amalgamate technical skills in using a Python web scraper, database management, and frontend design within the constraints of the assignment, to create an efficient and user-centric game review aggregator.
